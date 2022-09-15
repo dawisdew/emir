@@ -1,0 +1,12 @@
+.animation {
+    position: relative;
+    width: 1224px;
+    height: 300px;
+    background: red;
+}
+.block2 {
+    background: orange;
+    position: absolute;
+    width: 250px;
+    height: 300px;
+}
